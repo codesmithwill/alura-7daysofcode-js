@@ -17,3 +17,6 @@ Para isso decidi criar uma página principal contendo os dias, onde o usuário a
 ## Changelog
 - 1. Necessário executar a responsividade para outros dispositivos;
 - 2. Necessário acrescentar os outros dias;
+
+## Outros
+#7DaysOfCode
