@@ -20,3 +20,6 @@ Para isso decidi criar uma página principal contendo os dias, onde o usuário a
 
 ## Outros
 #7DaysOfCode
+
+## Deploy
+https://alura-7daysofcode-js.vercel.app/
