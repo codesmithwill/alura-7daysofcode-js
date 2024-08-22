@@ -1,7 +1,7 @@
 ## 7 Days of Code | Alura
 ![Logo 7DAYS OF CODE.](/assets/logo.png)
 
-### Esse é um projeto idealizado por [Alura](https://alura.com.br) juntamente com a youtubuer Rafaella Ballerini.
+### Esse é um projeto idealizado por [Alura](https://alura.com.br) juntamente com a Youtuber Rafaella Ballerini.
 
 O projeto consiste em um envio de uma questão-problema por e-mail para elaborarmos uma resposta para a situação envolvendo código em JavaScript de nosso jeito próprio.
 <br><br>
